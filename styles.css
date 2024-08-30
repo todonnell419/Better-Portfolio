@@ -152,6 +152,7 @@ section {
 
 .header-text {
     margin-bottom: 24px;
+    font-size: 1.5rem;
 }
 
 .project-item {
@@ -219,7 +220,7 @@ section {
     }
 
     .about-me {
-        width: 80%;
+        width: 34%;
         margin-right: auto;
     }
 }
